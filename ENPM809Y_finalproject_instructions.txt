@@ -1,0 +1,10 @@
+Instruction Command to run the Program
+
+1. open main.cpp on Visual Studion code.
+2. run the file, RViz window should open up.
+3. click on the 'image' box in the Displays panel to access the camera on the robot.
+
+Please reach out to us regarding any further questions 
+Jai Sharma: jaisharm@umd.edu
+Mothish Raj: mr2997@umd.edu
+Shelvin Paul: spauly@umd.edu
